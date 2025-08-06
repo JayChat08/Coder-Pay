@@ -4,7 +4,7 @@ const account1 = {
   owner: 'Jay Chaturvedi',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
-  pin: 0008,
+  pin: 8888,
 
   movementsDates: [
     '2024-11-18T21:31:17.178Z',
